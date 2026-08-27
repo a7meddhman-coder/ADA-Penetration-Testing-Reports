@@ -23,3 +23,8 @@ A collection of security assessment and penetration testing reports and document
   - **Target:** TryHackMe Attacktive Directory Lab[cite: 7]
   - **Key Activities:** Environment Setup & VPN Connectivity, Impacket Dependencies Configuration, Enumeration with Enum4linux and Kerbrute, Troubleshooting KDC Errors (`KDC_ERR_WRONG_REALM` & `C_PRINCIPAL_UNKNOWN`), and AS-REP Roasting Preparation[cite: 7].
   - **Author:** Ahmed Dahman Saleh[cite: 7]
+
+- 📄 **[Intro to Credential Harvesting Penetration Testing Report](./Intro%20to%20Credential%20Harvesting(Ahmed%20Dahman%20Saleh).pdf)**
+  - **Target:** TryHackMe Intro to Credential Harvesting Lab[cite: 8]
+  - **Key Activities:** Initial RDP Access, Windows Credential Storage Analysis (LSAS, NTDS.dit, Vault), Credential Extraction using Mimikatz (`vault::cred /export`), Remote Harvesting via Impacket Secretsdump, and Offline MSCACHE2 Password Cracking using Hashcat (Mode 2100)[cite: 8].
+  - **Author:** Ahmed Dahman Saleh[cite: 8]
