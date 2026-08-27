@@ -8,3 +8,8 @@ A collection of security assessment and penetration testing reports and document
   - **Target:** VulnNet: Active (Windows Environment)
   - **Key Activities:** Network Reconnaissance (Nmap), Redis Information Leak & Exploitation, SMB Enumeration, and Credential Spraying using NetExec.
   - **Author:** Ahmed Dahman Saleh
+
+- 📄 **[Active Directory Penetration Testing Report](./Ahmed%20Dahman%20saleh%20(Active)_2.pdf)**
+  - **Target:** Active Directory Environment[cite: 5]
+  - **Key Activities:** Network Poisoning & Hash Capture (Responder), Hash Analysis, and Advanced Password Cracking using Hashcat (Mode 5600) with dictionary and rule-based attacks[cite: 5].
+  - **Author:** Ahmed Dahman Saleh[cite: 5]
